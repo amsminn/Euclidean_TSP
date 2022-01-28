@@ -18,6 +18,6 @@ int main() {
     
     int n = 50;
     for(int i=1; i<=n; i++) {
-        cout << rnd.nxtInt(1, 200) << ' '<< rnd.nxtInt(1, 200) << endl;
+        cout << rnd.nxtInt(1, 150) << ' '<< rnd.nxtInt(1, 150) << endl;
     }
 }
